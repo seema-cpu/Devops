@@ -1,6 +1,6 @@
 class main
 public void main()
-[
-[A[{
+{
+System.out.println("i am in feature 302");
 
 }
